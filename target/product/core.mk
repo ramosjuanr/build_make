@@ -53,6 +53,7 @@ PRODUCT_PACKAGES += \
     Settings \
     SettingsIntelligence \
     SharedStorageBackup \
+    SoundRecorder \
     SimAppDialog \
     StorageManager \
     Telecom \
