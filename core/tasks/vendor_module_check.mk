@@ -45,6 +45,7 @@ _vendor_owner_whitelist := \
         trusted_logic \
         verizon \
         waves \
+	pixelgapps \
         widevine
 
 
