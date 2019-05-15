@@ -754,7 +754,7 @@ APICHECK_CLASSPATH_ENTRIES := \
     )
 APICHECK_CLASSPATH := $(subst $(space),:,$(strip $(APICHECK_CLASSPATH_ENTRIES)))
 
-APICHECK_COMMAND := $(APICHECK) -JXmx1024m -J"classpath $(APICHECK_CLASSPATH)"
+APICHECK_COMMAND := $(APICHECK) -JXmx8g -J"classpath $(APICHECK_CLASSPATH)"
 
 # Boolean variable determining if the whitelist for compatible properties is enabled
 PRODUCT_COMPATIBLE_PROPERTY := false
