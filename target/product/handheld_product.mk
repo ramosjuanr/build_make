@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     Calendar \
     Contacts \
     DeskClock \
+    Email \
     Gallery2 \
     LatinIME \
     Launcher3QuickStep \
