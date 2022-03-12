@@ -32,6 +32,7 @@ $(call inherit-product-if-exists, frameworks/base/data/keyboards/keyboards.mk)
 $(call inherit-product-if-exists, frameworks/webview/chromium/chromium.mk)
 
 PRODUCT_PACKAGES += \
+    AudioFX \
     BasicDreams \
     BlockedNumberProvider \
     Bluetooth \
@@ -55,7 +56,6 @@ PRODUCT_PACKAGES += \
     ManagedProvisioning \
     MmsService \
     MtpService \
-    MusicFX \
     NfcNci \
     PacProcessor \
     PrintRecommendationService \
