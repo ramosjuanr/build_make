@@ -28,7 +28,6 @@ PRODUCT_PACKAGES += \
     DeskClock \
     Gallery2 \
     Eleven \
-    Gallery2 \
     Jelly \
     LatinIME \
     OneTimeInitializer \
